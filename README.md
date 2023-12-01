@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src="Banner.gif" alt="Banner">
+  <img src="Banner.gif" alt="Banner" width="100%" height="200px">
 </p>
 
 <h1 align="center">
@@ -10,6 +10,7 @@
 ---
 
 <br>
+
 - 📫 Reach me through: _<a href="mailto:feras.aljoudi@gmail.com">Email</a>_
 
 - ✨ Check out my _<a href="https://ferasaljoudi.github.io/MyResume/" title="My Visual Resume">Resume</a>_
