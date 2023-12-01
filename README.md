@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src="Banner.gif" alt="Banner" width="100%" height="200px">
+  <img src="Banner.gif" alt="Banner" width="100%" height="300px">
 </p>
 
 <h1 align="center">
