@@ -12,7 +12,7 @@
 
 - 📫 Reach me through: _<a href="mailto:feras.aljoudi@gmail.com">Email</a>_
 
-- ✨ Check out my _<a href="https://ferasaljoudi.github.io/MyResume/" title="My Visual Resume">Resume</a>_
+- ✨ Check out my _<a href="https://ferasaljoudi.github.io/FerasResume/" title="My Visual Resume">Resume</a>_
 
 - 🔭 I’m currently working on advanced software engineering projects and enhancing my technical skills as I complete my third year of a software engineering degree.
 
