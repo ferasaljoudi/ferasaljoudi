@@ -12,15 +12,16 @@
 
 - 📫 Reach me through: _<a href="mailto:feras.aljoudi@gmail.com">Email</a>_
 
-- ✨ Check out my _<a href="https://ferasaljoudi.github.io/FerasResume/" title="My Visual Resume">Resume</a>_
+- ✨ Check out my Resumes
+  - _<a href="https://ferasaljoudi.github.io/FerasResume/" title="My Visual Resume">1st Version</a>_ using React
+  - _<a href="https://ferasaljoudi.csproject.org/" title="My Visual Resume">2nd Version</a>_ using Vue
 
-- 🔭 I’m currently working on advanced software engineering projects and enhancing my technical skills as I complete my third year of a software engineering degree.
+- 🔭 I’m currently working on advanced software engineering projects and enhancing my technical skills as I am completing my final year of a software engineering degree.
 
 - ⚡ Fun fact: I am avid photographer, capturing moments with as much skill and attention to detail as I code.
 
 </h3>
 <br>
-
 
 <!--
 **ferasaljoudi/ferasaljoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
