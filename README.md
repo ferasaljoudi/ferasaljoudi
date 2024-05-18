@@ -128,4 +128,4 @@ I am a passionate software engineering student currently in my final year. I'm e
 </div>
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=ferasaljoudi&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ferasaljoudi&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
