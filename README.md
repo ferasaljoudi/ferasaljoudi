@@ -39,8 +39,10 @@ I am a passionate software engineering student currently in my final year. I'm e
 </div>
 <br>
 
-<div>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ferasaljoudi&hide_border=true&background=0d1117&currStreakLabel=EFE372&fire=EFE372&ring=EFE372&stroke=white&dates=white&currStreakNum=1E90F0&sideNums=1E90F0&sideLabels=1E90F0&text_color=ffffff" alt="ferasaljoudi"> &nbsp;
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ferasaljoudi&hide_border=true&background=0d1117&currStreakLabel=1E90F0&fire=e41616&ring=e41616&stroke=white&dates=white&currStreakNum=1E90F0&sideNums=1E90F0&sideLabels=1E90F0&text_color=ffffff" alt="ferasaljoudi">
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferasaljoudi&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" alt="ferasaljoudi" width="45%"/>
 </div>
 
