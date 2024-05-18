@@ -126,5 +126,6 @@ I am a passionate software engineering student currently in my final year. I'm e
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferasaljoudi&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" alt="ferasaljoudi" width="45%"/>
 </div>
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=ferasaljoudi&icon=0&color=5)](https://visitcount.itsvg.in)
