@@ -30,14 +30,14 @@ I am a passionate software engineering student currently in my final year. I'm e
     <a href="#"><img src="./Assets/SVGs/skillset.svg" style="width: 100%"></a>
 </div>
 
-<h3 align = "center">👩‍💻 Languages</h3>
+<h3 align = "center">👨‍💻 Languages</h3>
 
 <div align = "center">
 
-  [![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)](https://www.w3schools.com/c/)
-  [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)
-  [![Java](https://img.shields.io/badge/%E2%98%95_Java-8A2BE2
-  )](https://www.w3schools.com/java/)
+  [![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=00FF00)](https://www.w3schools.com/c/)
+  [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=00FF00)](https://www.w3schools.com/cpp/)
+  [![C#](https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=csharp&logoColor=00FF00)](https://www.w3schools.com/cs/)
+  [![Java](https://img.shields.io/badge/%E2%98%95_Java-8A2BE2?style=flat-square)](https://www.w3schools.com/java/)
   [![Python](https://img.shields.io/badge/-Python-1076AB?style=flat-square&logo=python&logoColor=F7DF1E)](https://www.w3schools.com/python/)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.w3schools.com/js/)
   [![PHP](https://img.shields.io/badge/-PHP-B77BB4?style=flat-square&logo=php&logoColor=white)](https://www.w3schools.com/php/)
@@ -93,7 +93,7 @@ I am a passionate software engineering student currently in my final year. I'm e
 <div align = "center">
 
   [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-  [![VSCode](https://img.shields.io/badge/-VSCode-4D4D4D?style=flat-square&logo=visual-studio-code&logoColor=4080EC)](https://code.visualstudio.com/)
+  [![VSCode](https://img.shields.io/badge/-VS_Code-4D4D4D?style=flat-square&logo=visual-studio-code&logoColor=4080EC)](https://code.visualstudio.com/)
   [![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
   [![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)](https://apps.microsoft.com/detail/9n0dx20hk701?launch=true&mode=full&hl=en-us&gl=ca&ocid=bingwebsearch)
   [![Keil uVision](https://img.shields.io/badge/-Keil_uVision-0090D0?style=flat-square&logoColor=white)](https://www.keil.com/)
@@ -101,8 +101,19 @@ I am a passionate software engineering student currently in my final year. I'm e
   [![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-44A833?style=flat-square&logo=codeblocks&logoColor=white)](https://www.codeblocks.org/)
   [![Casa OS](https://img.shields.io/badge/-Casa%20OS-2496ED?style=flat-square&logo=casanetworks&logoColor=white)](https://casaos.io/)
   [![QtSpim](https://img.shields.io/badge/-QtSpim-0052CC?style=flat-square&logoColor=white)](https://pages.cs.wisc.edu/~larus/spim.html)
+  [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
   [![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/)
   [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+
+</div>
+
+<h3 align = "center">⚙️ Hardware Development</h3>
+
+<div align = "center">
+
+  [![Basys-3](https://img.shields.io/badge/-Basys_3-150458?style=flat-square)](https://digilent.com/reference/programmable-logic/basys-3/start)
+  [![STM32](https://img.shields.io/badge/-STM_32-150458?style=flat-square)](https://www.st.com/en/microcontrollers-microprocessors/stm32f1-series.html)
+  [![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-000010?style=flat-square&logo=Raspberry-Pi&logoColor=C51A4A)](https://www.raspberrypi.com/)
 
 </div>
 
