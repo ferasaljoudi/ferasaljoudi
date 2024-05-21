@@ -46,6 +46,7 @@ I am a passionate software engineering student currently in my final year. I'm e
   [![VHDL](https://img.shields.io/badge/-VHDL-gray?style=for-the-badge&logoColor=white)](https://www.doulos.com/knowhow/vhdl/what-is-vhdl/)
   [![ARM](https://img.shields.io/badge/-ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)](https://developer.arm.com/documentation/dui0473/c/writing-arm-assembly-language)
   [![MIPS](https://img.shields.io/badge/-MIPS-0052CC?style=for-the-badge&logoColor=white)](https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_Languages/Introduction_To_MIPS_Assembly_Language_Programming_(Kann))
+  [![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh/)
 
 </div>
 
@@ -58,6 +59,7 @@ I am a passionate software engineering student currently in my final year. I'm e
   [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
   [![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)](https://v2.chakra-ui.com/)
   [![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
+  [![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring)](https://www.baeldung.com/spring-boot-internationalization)
   [![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/)
   [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
