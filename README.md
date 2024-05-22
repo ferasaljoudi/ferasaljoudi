@@ -104,6 +104,7 @@ I am a passionate software engineering student currently in my final year. I'm e
   [![Casa OS](https://img.shields.io/badge/-Casa%20OS-2496ED?style=for-the-badge&logo=casanetworks&logoColor=white)](https://casaos.io/)
   [![QtSpim](https://img.shields.io/badge/-QtSpim-0052CC?style=for-the-badge&logoColor=white)](https://pages.cs.wisc.edu/~larus/spim.html)
   [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+  [![Solid Edge](https://img.shields.io/badge/-Solid_Edge-319795?style=for-the-badge&logo=solidedge&logoColor=white)](https://www.plm.automation.siemens.com/trial/en-us/solid-edge.html)
   [![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
   [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
