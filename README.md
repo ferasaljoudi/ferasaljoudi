@@ -1,8 +1,4 @@
 <br>
-
-<!-- JOKE START -->
-![Joke](https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=black)
-<!-- JOKE END -->
 <p align = "center">
 
   <img src="./Assets/FERASALJOUDI.gif" alt="Banner">
@@ -144,12 +140,8 @@ I am a passionate software engineering student currently in my final year. I'm e
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ferasaljoudi&hide_border=true&background=0d1117&currStreakLabel=1E90F0&fire=EFE372&ring=EFE372&stroke=white&dates=white&currStreakNum=1E90F0&sideNums=1E90F0&sideLabels=1E90F0&text_color=ffffff" alt="ferasaljoudi">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferasaljoudi&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372&langs_count=10" alt="ferasaljoudi"/>
-</div>
-<br>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=none" alt="Jokes Card"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferasaljoudi&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372&langs_count=10" alt="ferasaljoudi"/>&nbsp;
+  <!-- JOKE HERE -->
 </div>
 <br>
 
