@@ -146,9 +146,9 @@ I am a passionate software engineering student currently in my final year. I'm e
 
 <!-- JOKE START -->
 
-.NET developers are picky when it comes to food.
+What do you get if you lock a monkey in a room with a typewriter for 8 hours?
 
-They only like chicken NuGet.
+A regular expression.
 <!-- JOKE END -->
 
 <br>
