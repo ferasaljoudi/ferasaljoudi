@@ -144,15 +144,17 @@ I am a passionate software engineering student currently in my final year. I'm e
 </div>
 <br>
 
-<div align="center" style="width: 100%; display: flex; justify-content: center;">
-  <div style="width: 75%; color: black; background-color: #BFDBFE; padding-top: 12px; padding-bottom: 12px; padding-right: 5px; padding-left: 5px; font-weight: 600; font-size: medium; font-family: Arial, sans-serif; border-radius: 8px; text-align: center;">
-    <!-- JOKE START -->
-    What do you get if you lock a monkey in a room with a typewriter for 8 hours?
-    <br>A regular expression.
-    <!-- JOKE END -->
-  </div>
-</div>
+<div align="center" style="font-weight: 600; font-size:medium; font-family: Arial, sans-serif;">
 
+
+<!-- JOKE START -->
+
+What do you get if you lock a monkey in a room with a typewriter for 8 hours?
+
+A regular expression.
+<!-- JOKE END -->
+
+</div>
 <br>
 
 <div align="center">
