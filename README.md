@@ -145,8 +145,9 @@ I am a passionate software engineering student currently in my final year. I'm e
 <br>
 
 <div align="center">
-
 <div style="width: 70%; color: black; background-color: #BFDBFE; padding-top: 12px; padding-bottom: 1px; font-weight: 600; font-size:medium; font-family: Arial, sans-serif; border-radius: 8px;">
+
+<div style="color: black; padding-top: 12px; padding-bottom: 1px; font-weight: 600; font-size:medium; font-family: Arial, sans-serif;">
 <!-- JOKE START -->
 
 What do you get if you lock a monkey in a room with a typewriter for 8 hours?
@@ -155,6 +156,7 @@ A regular expression.
 <!-- JOKE END -->
 </div>
 
+</div>
 </div>
 <br>
 
