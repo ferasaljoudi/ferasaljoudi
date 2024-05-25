@@ -2,7 +2,7 @@ import requests
 
 joke_url = "https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=black"
 response = requests.get(joke_url)
-joke_svg = response.text
+joke_svg_url = response.url
 
 with open("README.md", "r") as file:
     readme = file.readlines()
@@ -18,7 +18,8 @@ for idx, line in enumerate(readme):
 if start_idx is not None and end_idx is not None:
     del readme[start_idx:end_idx]
 
-readme.insert(1, f"\n<!-- JOKE START -->\n{joke_svg}\n<!-- JOKE END -->\n")
+joke_markdown = f"\n<!-- JOKE START -->\n![Joke]({joke_svg_url})\n<!-- JOKE END -->\n"
+readme.insert(1, joke_markdown)
 
 with open("README.md", "w") as file:
     file.writelines(readme)
