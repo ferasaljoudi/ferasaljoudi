@@ -1,4 +1,4 @@
-name: Update Joke SVG
+name: Update README with a Joke
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-svg:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -20,15 +20,21 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4
 
-      - name: Generate and save joke to SVG
+      - name: Generate and update README with joke
         run: python generate_joke.py
 
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --exit-code || echo "changes"
+
       - name: Commit and push changes
+        if: steps.changes.outputs.changes == 'changes'
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add randomJoke.svg
-          git commit -m "Update joke SVG"
+          git add README.md
+          git commit -m "Update README with a new joke"
           git push https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
