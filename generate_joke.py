@@ -1,23 +1,31 @@
 import requests
-import re
 
 # joke_url = "https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=black"
 joke_url = "https://v2.jokeapi.dev/joke/Programming,Spooky?format=txt"
 response = requests.get(joke_url)
-joke_svg = response.text
+joke_text = response.text
 
 with open("README.md", "r") as file:
     readme = file.readlines()
 
-marker = "<!-- JOKE HERE -->"
+start_marker = "<!-- JOKE START -->"
+end_marker = "<!-- JOKE END -->"
 
-def insert_joke_at_marker(marker, joke_svg, readme):
+def insert_joke_between_markers(start_marker, end_marker, joke_text, readme):
+    start_idx = None
+    end_idx = None
+    
     for idx, line in enumerate(readme):
-        if marker in line:
-            readme[idx] = f"{marker}\n\n{joke_svg}\n"
-            break
+        if start_marker in line:
+            start_idx = idx
+        if end_marker in line:
+            end_idx = idx
 
-insert_joke_at_marker(marker, joke_svg, readme)
+    if start_idx is not None and end_idx is not None:
+        readme = readme[:start_idx+1] + [f"\n{joke_text}\n"] + readme[end_idx:]
+    return readme
+
+readme = insert_joke_between_markers(start_marker, end_marker, joke_text, readme)
 
 with open("README.md", "w") as file:
     file.writelines(readme)

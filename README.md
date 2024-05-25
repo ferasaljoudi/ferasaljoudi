@@ -144,9 +144,9 @@ I am a passionate software engineering student currently in my final year. I'm e
 </div>
 <br>
 
-<!-- JOKE HERE -->
+<!-- JOKE START -->
 
-Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
+<!-- JOKE END -->
 
 <br>
 
