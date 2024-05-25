@@ -146,6 +146,9 @@ I am a passionate software engineering student currently in my final year. I'm e
 
 <!-- JOKE START -->
 
+What is in a ghost's nose?
+
+Boo-gers.
 <!-- JOKE END -->
 
 <br>
