@@ -146,9 +146,9 @@ I am a passionate software engineering student currently in my final year. I'm e
 
 <!-- JOKE START -->
 
-What is in a ghost's nose?
+.NET developers are picky when it comes to food.
 
-Boo-gers.
+They only like chicken NuGet.
 <!-- JOKE END -->
 
 <br>
