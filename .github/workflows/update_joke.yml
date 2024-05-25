@@ -2,7 +2,7 @@ name: Update README with a Joke
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -25,10 +25,10 @@ jobs:
 
       - name: Commit and push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "Update README with a new joke"
-          git push https://github-actions:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          git push https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
