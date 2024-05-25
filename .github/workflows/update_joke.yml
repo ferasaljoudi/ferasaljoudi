@@ -29,7 +29,6 @@ jobs:
           git diff --exit-code || echo "changes"
 
       - name: Commit and push changes
-        if: steps.changes.outputs.changes == 'changes'
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
