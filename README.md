@@ -146,6 +146,8 @@ I am a passionate software engineering student currently in my final year. I'm e
 
 <!-- JOKE HERE -->
 
+Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
+
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=ferasaljoudi&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
