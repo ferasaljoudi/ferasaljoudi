@@ -141,7 +141,68 @@ I am a passionate software engineering student currently in my final year. I'm e
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferasaljoudi&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372&langs_count=10" alt="ferasaljoudi"/>&nbsp;
-  <!-- JOKE HERE -->
+<!-- JOKE HERE -->
+
+
+  <svg class="" onload="myfunc()" id="qna" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <script>
+        const myfunc = () => {
+          let text = document.getElementsByClassName("text");
+          let qnaC = document.getElementById("qna");
+          if(window.screen.availWidth > 425){
+            text[0].classList.add("desktop");
+            qnaC.classList.add("qwidthDesktop");
+          }
+          else{
+            text[0].classList.add("mobile");
+            qnaC.classList.add("qwidthMobile");
+          }
+        }
+  </script>
+    <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml"> 
+        <style>
+          .qwidthDesktop{
+            width: 500px;
+          }
+          .qwidthMobile{
+            width: 80%;
+          }
+          .container {
+            border: 2px solid transparent;
+            border-radius: 10px;
+            background: black;
+          }
+          .desktop{
+            font-size: 18px;
+          }
+          .mobile{
+            font-size: 45px;
+          }
+          .text{
+            padding: 0.5rem;
+            font-family: Arial, Helvetica, sans-serif;
+          }
+          .question {
+            color: #8C52FF;
+          }
+          .answer {
+            color: #EFE372;
+          }
+          code {
+            font-size: 1.2rem;
+            color: #f72585;
+          }
+        </style>
+        <div class="container">
+          <div class="text">
+            <p class="question"><b>Q.</b> Why did 10 get paid less than "10"?</p>
+            <p class="answer"><b>A.</b> There was workplace inequality. </p>
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </svg>
 </div>
 <br>
 
