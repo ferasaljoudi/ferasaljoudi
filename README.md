@@ -142,6 +142,8 @@ I am a passionate software engineering student currently in my final year. I'm e
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferasaljoudi&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372&langs_count=10" alt="ferasaljoudi"/>&nbsp;
 <!-- JOKE HERE -->
+
+![Joke](https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=black)
 </div>
 <br>
 
