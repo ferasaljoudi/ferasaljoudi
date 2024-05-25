@@ -146,6 +146,67 @@ I am a passionate software engineering student currently in my final year. I'm e
 
 <!-- JOKE HERE -->
 
+
+  <svg class="" onload="myfunc()" id="qna" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <script>
+        const myfunc = () => {
+          let text = document.getElementsByClassName("text");
+          let qnaC = document.getElementById("qna");
+          if(window.screen.availWidth > 425){
+            text[0].classList.add("desktop");
+            qnaC.classList.add("qwidthDesktop");
+          }
+          else{
+            text[0].classList.add("mobile");
+            qnaC.classList.add("qwidthMobile");
+          }
+        }
+  </script>
+    <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml"> 
+        <style>
+          .qwidthDesktop{
+            width: 500px;
+          }
+          .qwidthMobile{
+            width: 80%;
+          }
+          .container {
+            border: 2px solid transparent;
+            border-radius: 10px;
+            background: black;
+          }
+          .desktop{
+            font-size: 18px;
+          }
+          .mobile{
+            font-size: 45px;
+          }
+          .text{
+            padding: 0.5rem;
+            font-family: Arial, Helvetica, sans-serif;
+          }
+          .question {
+            color: #8C52FF;
+          }
+          .answer {
+            color: #EFE372;
+          }
+          code {
+            font-size: 1.2rem;
+            color: #f72585;
+          }
+        </style>
+        <div class="container">
+          <div class="text">
+            <p class="question"><b>Q.</b> Why shouldn't you trust Matlab developers?</p>
+            <p class="answer"><b>A.</b> Because they're always plotting something. </p>
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </svg>
+
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=ferasaljoudi&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
