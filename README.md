@@ -144,21 +144,8 @@ I am a passionate software engineering student currently in my final year. I'm e
 </div>
 <br>
 
-<div align="center" style="font-weight: 600; font-size:medium; font-family: Arial, sans-serif;">
-
-
-<!-- JOKE START -->
-
-What do you get if you lock a monkey in a room with a typewriter for 8 hours?
-
-A regular expression.
-<!-- JOKE END -->
-
-</div>
-<br>
-
-<div style="width: 100%;">
-    <a href="#"><img src="./Assets/SVGs/randomJoke.svg" style="width: 100%"></a>
+<div align="center">
+    <a href="#"><img src="randomJoke.svg"></a>
 </div>
 <br>
 
