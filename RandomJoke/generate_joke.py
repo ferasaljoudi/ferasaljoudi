@@ -5,7 +5,7 @@ joke_url = "https://readme-jokes.vercel.app/api?hideBorder&qColor=%231E90F0&aCol
 response = requests.get(joke_url)
 joke_text = response.text
 
-with open("randomJoke.svg", "r") as file:
+with open("RandomJoke/randomJoke.svg", "r") as file:
     readme = file.readlines()
 
 start_marker = "<!-- JOKE START -->"
@@ -27,5 +27,5 @@ def insert_joke_between_markers(start_marker, end_marker, joke_text, readme):
 
 readme = insert_joke_between_markers(start_marker, end_marker, joke_text, readme)
 
-with open("randomJoke.svg", "w") as file:
+with open("RandomJoke/randomJoke.svg", "w") as file:
     file.writelines(readme)
