@@ -21,7 +21,7 @@ jobs:
         run: pip install requests
 
       - name: Generate and update README with joke
-        run: python generate_joke.py
+        run: python RandomJoke/generate_joke.py
 
       - name: Check for changes
         id: changes
