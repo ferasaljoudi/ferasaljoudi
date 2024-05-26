@@ -136,10 +136,10 @@ I am a passionate software engineering student currently in my final year. I'm e
 <br>
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ferasaljoudi&hide_border=true&background=0d1117&currStreakLabel=1E90F0&fire=EFE372&ring=EFE372&stroke=white&dates=white&currStreakNum=1E90F0&sideNums=1E90F0&sideLabels=1E90F0&text_color=ffffff" alt="ferasaljoudi">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ferasaljoudi&hide_border=true&background=0d1117&currStreakLabel=1E90F0&fire=EFE372&ring=EFE372&stroke=white&dates=white&currStreakNum=1E90F0&sideNums=1E90F0&sideLabels=1E90F0&text_color=ffffff" alt="ferasaljoudi-Streak">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferasaljoudi&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372&langs_count=10" alt="ferasaljoudi"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferasaljoudi&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372&langs_count=14" alt="ferasaljoudi-Most Languages Used"/>
 </div>
 <br>
 
