@@ -102,7 +102,7 @@ I am a passionate software engineering student currently in my final year. I'm e
   [![Keil uVision](https://img.shields.io/badge/-Keil_uVision-0090D0?style=for-the-badge&logoColor=white)](https://www.keil.com/)
   <a href="https://www.xilinx.com/products/design-tools/vivado.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/vivado.svg" alt="Vivado"></a>
   [![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-44A833?style=for-the-badge&logo=codeblocks&logoColor=white)](https://www.codeblocks.org/)
-  [![Casa OS](https://img.shields.io/badge/-Casa%20OS-2496ED?style=for-the-badge&logo=casanetworks&logoColor=white)](https://casaos.io/)
+  <a href="https://casaos.io/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/casaOS.svg" alt="Casa OS"></a>
   [![QtSpim](https://img.shields.io/badge/-QtSpim-0052CC?style=for-the-badge&logoColor=white)](https://pages.cs.wisc.edu/~larus/spim.html)
   [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
   <a href="https://www.plm.automation.siemens.com/trial/en-us/solid-edge.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/solidEdge.svg" alt="Solid Edge"></a>
@@ -115,11 +115,15 @@ I am a passionate software engineering student currently in my final year. I'm e
 
 <div align = "center">
 
-  [![Basys-3](https://img.shields.io/badge/-Basys_3-150458?style=for-the-badge)](https://digilent.com/reference/programmable-logic/basys-3/start)
-  [![STM32](https://img.shields.io/badge/-STM_32-150458?style=for-the-badge)](https://www.st.com/en/microcontrollers-microprocessors/stm32f1-series.html)
-  [![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-000010?style=for-the-badge&logo=Raspberry-Pi&logoColor=C51A4A)](https://www.raspberrypi.com/)
+  <a href="https://digilent.com/reference/programmable-logic/basys-3/start"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/basys3.svg" alt="Basys-3"></a>
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32f1-series.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/stm.svg" alt="STM32"></a>
+  <a href="https://www.raspberrypi.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/raspberryPi.svg" alt="Raspberry Pi"></a>
 
 </div>
+
+  <!-- [![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-000010?style=for-the-badge&logo=Raspberry-Pi&logoColor=C51A4A)](https://www.raspberrypi.com/)
+    [![Basys-3](https://img.shields.io/badge/-Basys_3-150458?style=for-the-badge)](https://digilent.com/reference/programmable-logic/basys-3/start)
+  [![STM32](https://img.shields.io/badge/-STM_32-150458?style=for-the-badge)](https://www.st.com/en/microcontrollers-microprocessors/stm32f1-series.html) -->
 
 <br>
 <div style="width: 100%;">
