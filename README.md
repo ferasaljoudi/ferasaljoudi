@@ -157,6 +157,11 @@ A regular expression.
 </div>
 <br>
 
+<div style="width: 100%;">
+    <a href="#"><img src="./Assets/SVGs/randomJoke.svg" style="width: 100%"></a>
+</div>
+<br>
+
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=ferasaljoudi&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
