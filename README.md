@@ -100,7 +100,7 @@ I am a passionate software engineering student currently in my final year. I'm e
   [![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
   [![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D50?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://apps.microsoft.com/detail/9n0dx20hk701?launch=true&mode=full&hl=en-us&gl=ca&ocid=bingwebsearch)
   [![Keil uVision](https://img.shields.io/badge/-Keil_uVision-0090D0?style=for-the-badge&logoColor=white)](https://www.keil.com/)
-  <a href="https://www.xilinx.com/products/design-tools/vivado.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/vivadoLogo.svg" alt="Vivado"></a>
+  <a href="https://www.xilinx.com/products/design-tools/vivado.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/vivado.svg" alt="Vivado"></a>
   [![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-44A833?style=for-the-badge&logo=codeblocks&logoColor=white)](https://www.codeblocks.org/)
   [![Casa OS](https://img.shields.io/badge/-Casa%20OS-2496ED?style=for-the-badge&logo=casanetworks&logoColor=white)](https://casaos.io/)
   [![QtSpim](https://img.shields.io/badge/-QtSpim-0052CC?style=for-the-badge&logoColor=white)](https://pages.cs.wisc.edu/~larus/spim.html)
