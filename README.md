@@ -145,7 +145,7 @@ I am a passionate software engineering student currently in my final year. I'm e
 <br>
 
 <div align="center">
-    <a href="#"><img src="randomJoke.svg"></a>
+    <a href="#"><img src="RandomJoke/randomJoke.svg"></a>
 </div>
 <br>
 
