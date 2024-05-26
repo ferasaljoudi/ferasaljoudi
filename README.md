@@ -1,12 +1,11 @@
 <br>
 <p align = "center">
-
   <img src="./Assets/FERASALJOUDI.gif" alt="Banner">
 </p>
 
 <br>
 <div style="width: 100%;">
-    <a href="#"><img src="./Assets/SVGs/aboutMe.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BlueSVGs/aboutMe.svg" alt="About Me" style="width: 100%"></a>
 </div>
 <br>
 
@@ -29,7 +28,7 @@ I am a passionate software engineering student currently in my final year. I'm e
 
 <br>
 <div style="width: 100%;">
-    <a href="#"><img src="./Assets/SVGs/skillset.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BlueSVGs/skillset.svg" alt="Skillset" style="width: 100%"></a>
 </div>
 
 <h2 align = "center">👨‍💻 Languages</h2>
@@ -97,11 +96,11 @@ I am a passionate software engineering student currently in my final year. I'm e
 <div align = "center">
 
   [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-  [![VSCode](https://img.shields.io/badge/-VS_Code-4D4D4D?style=for-the-badge&logo=visual-studio-code&logoColor=4080EC)](https://code.visualstudio.com/)
+  [![VSCode](https://img.shields.io/badge/-VS_Code-4D4D50?style=for-the-badge&logo=visual-studio-code&logoColor=4080EC)](https://code.visualstudio.com/)
   [![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
-  [![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://apps.microsoft.com/detail/9n0dx20hk701?launch=true&mode=full&hl=en-us&gl=ca&ocid=bingwebsearch)
+  [![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D50?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://apps.microsoft.com/detail/9n0dx20hk701?launch=true&mode=full&hl=en-us&gl=ca&ocid=bingwebsearch)
   [![Keil uVision](https://img.shields.io/badge/-Keil_uVision-0090D0?style=for-the-badge&logoColor=white)](https://www.keil.com/)
-  [![Vivado](https://img.shields.io/badge/-Vivado-4D4D4D?style=for-the-badge&logo=xilinx&logoColor=white)](https://www.xilinx.com/products/design-tools/vivado.html)
+  <a href="https://www.xilinx.com/products/design-tools/vivado.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/vivadoLogo.svg" alt="Vivado"></a>
   [![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-44A833?style=for-the-badge&logo=codeblocks&logoColor=white)](https://www.codeblocks.org/)
   [![Casa OS](https://img.shields.io/badge/-Casa%20OS-2496ED?style=for-the-badge&logo=casanetworks&logoColor=white)](https://casaos.io/)
   [![QtSpim](https://img.shields.io/badge/-QtSpim-0052CC?style=for-the-badge&logoColor=white)](https://pages.cs.wisc.edu/~larus/spim.html)
@@ -124,7 +123,7 @@ I am a passionate software engineering student currently in my final year. I'm e
 
 <br>
 <div style="width: 100%;">
-    <a href="#"><img src="./Assets/SVGs/trophies.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BlueSVGs/trophies.svg" alt="Trophies" style="width: 100%"></a>
 </div>
 <br>
 
@@ -132,7 +131,7 @@ I am a passionate software engineering student currently in my final year. I'm e
 
 <br>
 <div style="width: 100%;">
-    <a href="#"><img src="./Assets/SVGs/statistics.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BlueSVGs/statistics.svg" alt="Statistics" style="width: 100%"></a>
 </div>
 <br>
 
