@@ -28,7 +28,7 @@
           .container {
             border: 2px solid transparent;
             border-radius: 10px;
-            background: #0d1117;
+            background: black;
           }
           .desktop{
             font-size: 18px;
@@ -41,7 +41,7 @@
             font-family: Arial, Helvetica, sans-serif;
           }
           .question {
-            color: #1E90F0;
+            color: #8C52FF;
           }
           .answer {
             color: #EFE372;
@@ -53,8 +53,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why don't bachelors like Git?</p>
-            <p class="answer"><b>A.</b> Because they are afraid to commit. </p>
+            <p class="question"><b>Q.</b> Why do Front-End Developers eat lunch alone?</p>
+            <p class="answer"><b>A.</b> Because, they don't know how to join tables. </p>
           </div>
         </div>
       </div>
