@@ -1,6 +1,6 @@
 import requests
 
-joke_url = "https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=black"
+joke_url = "https://readme-jokes.vercel.app/api?hideBorder&qColor=%231E90F0&aColor=%23EFE372&bgColor=%230d1117"
 # joke_url = "https://v2.jokeapi.dev/joke/Programming,Spooky?format=txt"
 response = requests.get(joke_url)
 joke_text = response.text
