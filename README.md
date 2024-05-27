@@ -95,7 +95,7 @@ I am a passionate software engineering student currently in my final year. I'm e
 
 <div align = "center">
 
-  [![Docker](https://img.shields.io/badge/-💻_Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+  [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
   [![VSCode](https://img.shields.io/badge/-VS_Code-4D4D50?style=for-the-badge&logo=visual-studio-code&logoColor=4080EC)](https://code.visualstudio.com/)
   [![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
   [![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D50?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://apps.microsoft.com/detail/9n0dx20hk701?launch=true&mode=full&hl=en-us&gl=ca&ocid=bingwebsearch)
@@ -103,7 +103,7 @@ I am a passionate software engineering student currently in my final year. I'm e
   <a href="https://www.xilinx.com/products/design-tools/vivado.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/vivado.svg" alt="Vivado"></a>
   [![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-44A833?style=for-the-badge&logo=codeblocks&logoColor=white)](https://www.codeblocks.org/)
   <a href="https://casaos.io/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/casaOS.svg" alt="Casa OS"></a>
-  [![QtSpim](https://img.shields.io/badge/-QtSpim-0052CC?style=for-the-badge&logoColor=white)](https://pages.cs.wisc.edu/~larus/spim.html)
+  <a href="https://pages.cs.wisc.edu/~larus/spim.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/qtSpim.svg" alt="QtSpim"></a>
   [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
   <a href="https://www.plm.automation.siemens.com/trial/en-us/solid-edge.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/solidEdge.svg" alt="Solid Edge"></a>
   [![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
