@@ -95,7 +95,7 @@ I am a passionate software engineering student currently in my final year. I'm e
 
 <div align = "center">
 
-  [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+  [![Docker](https://img.shields.io/badge/-💻_Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
   [![VSCode](https://img.shields.io/badge/-VS_Code-4D4D50?style=for-the-badge&logo=visual-studio-code&logoColor=4080EC)](https://code.visualstudio.com/)
   [![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
   [![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D50?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://apps.microsoft.com/detail/9n0dx20hk701?launch=true&mode=full&hl=en-us&gl=ca&ocid=bingwebsearch)
@@ -120,10 +120,6 @@ I am a passionate software engineering student currently in my final year. I'm e
   <a href="https://www.raspberrypi.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/raspberryPi.svg" alt="Raspberry Pi"></a>
 
 </div>
-
-  <!-- [![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-000010?style=for-the-badge&logo=Raspberry-Pi&logoColor=C51A4A)](https://www.raspberrypi.com/)
-    [![Basys-3](https://img.shields.io/badge/-Basys_3-150458?style=for-the-badge)](https://digilent.com/reference/programmable-logic/basys-3/start)
-  [![STM32](https://img.shields.io/badge/-STM_32-150458?style=for-the-badge)](https://www.st.com/en/microcontrollers-microprocessors/stm32f1-series.html) -->
 
 <br>
 <div style="width: 100%;">
