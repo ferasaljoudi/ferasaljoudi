@@ -53,8 +53,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> What did the Class say in court when put on trial?</p>
-            <p class="answer"><b>A.</b> I strongly object! </p>
+            <p class="question"><b>Q.</b> What is React's favorite movie genre?</p>
+            <p class="answer"><b>A.</b> Suspense </p>
           </div>
         </div>
       </div>
