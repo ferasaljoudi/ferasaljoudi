@@ -53,8 +53,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> What is React's favorite movie genre?</p>
-            <p class="answer"><b>A.</b> Suspense </p>
+            <p class="question"><b>Q.</b> What is a computer virus?</p>
+            <p class="answer"><b>A.</b> A terminal illness! </p>
           </div>
         </div>
       </div>
