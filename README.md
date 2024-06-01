@@ -39,6 +39,7 @@ I am a passionate software engineering student currently in my final year. I'm e
   [![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00)](https://www.w3schools.com/cpp/)
   [![C#](https://img.shields.io/badge/-C%23-00599C?style=for-the-badge&logo=csharp&logoColor=00FF00)](https://www.w3schools.com/cs/)
   [![Java](https://img.shields.io/badge/%E2%98%95_Java-8A2BE2?style=for-the-badge)](https://www.w3schools.com/java/)
+  <a href="https://www.w3schools.com/java/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/java.svg" alt="Java"></a>
   [![Python](https://img.shields.io/badge/-Python-1076AB?style=for-the-badge&logo=python&logoColor=F7DF1E)](https://www.w3schools.com/python/)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.w3schools.com/js/)
   [![PHP](https://img.shields.io/badge/-PHP-B77BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.w3schools.com/php/)
