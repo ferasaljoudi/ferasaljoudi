@@ -128,7 +128,7 @@ I am a passionate software engineering student currently in my final year. I'm e
 </div>
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=ferasaljoudi&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ferasaljoudi&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 <br>
 <div style="width: 100%;">
