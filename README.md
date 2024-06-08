@@ -33,22 +33,44 @@ I am a passionate software engineering student currently in my final year. I'm e
 
 <h2 align = "center">👨‍💻 Languages</h2>
 
-<div align = "center">
-
-  [![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=00FF00)](https://www.w3schools.com/c/)
-  [![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00)](https://www.w3schools.com/cpp/)
-  [![C#](https://img.shields.io/badge/-C%23-00599C?style=for-the-badge&logo=csharp&logoColor=00FF00)](https://www.w3schools.com/cs/)
-  <a href="https://www.w3schools.com/java/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/java.svg" alt="Java"></a>
-  [![Python](https://img.shields.io/badge/-Python-1076AB?style=for-the-badge&logo=python&logoColor=F7DF1E)](https://www.w3schools.com/python/)
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.w3schools.com/js/)
-  [![PHP](https://img.shields.io/badge/-PHP-B77BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.w3schools.com/php/)
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-  [![VHDL](https://img.shields.io/badge/-VHDL-gray?style=for-the-badge&logoColor=white)](https://www.doulos.com/knowhow/vhdl/what-is-vhdl/)
-  [![ARM](https://img.shields.io/badge/-ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)](https://developer.arm.com/documentation/dui0473/c/writing-arm-assembly-language)
-  [![MIPS](https://img.shields.io/badge/-MIPS-0052CC?style=for-the-badge&logoColor=white)](https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_Languages/Introduction_To_MIPS_Assembly_Language_Programming_(Kann))
-  [![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh/)
-
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <a href="https://www.w3schools.com/c/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Left/c.svg" alt="C"></a>
+      <br>
+      <a href="https://www.w3schools.com/java/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Left/java.svg" alt="Java"></a>
+      <br>
+      <a href="https://www.w3schools.com/js/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Left/javaScript.svg" alt="JavaScript"></a>
+      <br>
+      <a href="https://html.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Left/html.svg" alt="HTML"></a>
+      <br>
+      <a href="https://developer.arm.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Left/arm.svg" alt="ARM"></a>
+    </td>
+    <td>
+      <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Middle/cSharp.svg" alt="C Sharp"></a>
+      <br>
+      <a href="https://www.w3schools.com/python/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Middle/python.svg" alt="Python"></a>
+      <br>
+      <a href="https://www.shellscript.sh/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Middle/shellScript.svg" alt="ShellScript"></a>
+      <br>
+      <a href="https://html.com/html5/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Middle/html5.svg" alt="HTML5"></a>
+      <br>
+      <a href="https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_Languages/Introduction_To_MIPS_Assembly_Language_Programming_(Kann)"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Middle/mips.svg" alt="MIPS"></a>
+    </td>
+    <td>
+      <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Right/cpp.svg" alt="Cpp"></a>
+      <br>
+      <a href="https://www.w3schools.com/php/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Right/php.svg" alt="PHP">
+      <br>
+      <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Right/typeScript.svg" alt="TypeScript"></a>
+      <br>
+      <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Right/css.svg" alt="CSS"></a>
+      <br>
+      <a href="https://www.doulos.com/knowhow/vhdl/what-is-vhdl/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Right/vhdl.svg" alt="VHDL"></a>
+    </td>
+  </tr>
+</table>
 </div>
 
 <h2 align = "center">🌐 Web Development</h2>
