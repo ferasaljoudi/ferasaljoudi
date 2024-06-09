@@ -76,16 +76,31 @@ I am a passionate software engineering student currently in my final year. I'm e
 <h2 align = "center">🌐 Web Development</h2>
 
 <div align = "center">
-
-  <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Middle/react.svg" alt="React"></a>
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-  [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
-  [![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)](https://v2.chakra-ui.com/)
-  [![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
-  [![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring)](https://www.baeldung.com/spring-boot-internationalization)
-  [![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/)
-  [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-
+<table>
+  <tr>
+    <td>
+      <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/webDevelopment/Left/vue.svg" alt="Vue.js"></a>
+      <br>
+      <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/webDevelopment/Left/bootstrap.svg" alt="Bootstrap"></a>
+      <br>
+      <a href="https://pages.github.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/webDevelopment/Left/githubPages.svg" alt="GitHub Pages"></a>
+    </td>
+    <td>
+      <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Middle/react.svg" alt="React"></a>
+      <br>
+      <a href="https://v2.chakra-ui.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/webDevelopment/Middle/chakraUi.svg" alt="Chakra UI"></a>
+      <br>
+      <a href="https://wordpress.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/webDevelopment/Middle/wordpress.svg" alt="WordPress"></a>
+    </td>
+    <td>
+      <a href="https://nodejs.org/en"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/webDevelopment/Right/nodeJs.svg" alt="Node Js"></a>
+      <br>
+      <a href="https://www.baeldung.com/spring-boot-internationalization"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/webDevelopment/Right/springBoot.svg" alt="Spring Boot">
+      <br>
+      <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/webDevelopment/Right/figma.svg" alt="Figma"></a>
+    </td>
+  </tr>
+</table>
 </div>
 
 <h2 align = "center">🤖 Machine Learning and Data Science</h2>
