@@ -77,7 +77,7 @@ I am a passionate software engineering student currently in my final year. I'm e
 
 <div align = "center">
 
-  [![React](https://img.shields.io/badge/-React-4D4D4D?style=for-the-badge&logo=react&logoColor=4479B0)](https://react.dev/)
+  <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Middle/react.svg" alt="React"></a>
   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
   [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
   [![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)](https://v2.chakra-ui.com/)
