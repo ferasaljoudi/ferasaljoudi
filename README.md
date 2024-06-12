@@ -106,13 +106,25 @@ I am a passionate software engineering student currently in my final year. I'm e
 <h2 align = "center">🤖 Machine Learning and Data Science</h2>
 
 <div align = "center">
-
-  [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-  [![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
-  [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-  [![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
-  [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-
+<table>
+  <tr>
+    <td>
+      <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/MachineLearning/Left/pandas.svg" alt="Pandas"></a>
+      <br>
+      <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/MachineLearning/Left/tensorflow.svg" alt="Tensorflow"></a>
+    </td>
+    <td>
+      <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/MachineLearning/Middle/numpy.svg" alt="Numpy"></a>
+      <br>
+      <a href="https://keras.io/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/MachineLearning/Middle/keras.svg" alt="Keras"></a>
+    </td>
+    <td>
+      <a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/MachineLearning/Right/matplotlib.svg" alt="Matplotlib"></a>
+      <br>
+      <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/MachineLearning/Right/pytorch.svg" alt="Pytorch">
+    </td>
+  </tr>
+</table>
 </div>
 
 <h2 align = "center">☁️ Cloud and Databases</h2>
