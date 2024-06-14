@@ -166,7 +166,7 @@ I am a passionate software engineering student currently in my final year. I'm e
 <div align = "center">
 
   <a href="https://digilent.com/reference/programmable-logic/basys-3/start"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/basys3.svg" alt="Basys-3"></a>
-  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32f1-series.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/stm.svg" alt="STM32"></a>
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32f1-series.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Hardware/Left/stm32.svg" alt="STM32">
   <a href="https://www.raspberrypi.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/raspberryPi.svg" alt="Raspberry Pi"></a>
 
 </div>
@@ -177,7 +177,11 @@ I am a passionate software engineering student currently in my final year. I'm e
 </div>
 <br>
 
+<div align = "center">
+
 ![](https://github-profile-trophy.vercel.app/?username=ferasaljoudi&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
 
 <br>
 <div style="width: 100%;">
