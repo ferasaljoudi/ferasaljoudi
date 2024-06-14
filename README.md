@@ -164,11 +164,22 @@ I am a passionate software engineering student currently in my final year. I'm e
 <h2 align = "center">⚙️ Hardware Development</h2>
 
 <div align = "center">
-
-  <a href="https://digilent.com/reference/programmable-logic/basys-3/start"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/basys3.svg" alt="Basys-3"></a>
-  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32f1-series.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Hardware/Left/stm32.svg" alt="STM32">
-  <a href="https://www.raspberrypi.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/raspberryPi.svg" alt="Raspberry Pi"></a>
-
+<table>
+  <tr>
+    <td>
+      <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32f1-series.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Hardware/Left/stm32.svg" alt="Stm32"></a>
+      <br>
+    </td>
+    <td>
+      <a href="https://digilent.com/reference/programmable-logic/basys-3/start"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Hardware/Middle/basys3.svg" alt="Basys3"></a>
+      <br>
+    </td>
+    <td>
+      <a href="https://www.raspberrypi.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Hardware/Right/raspberryPi.svg" alt="RASPBERRY PI"></a>
+      <br>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br>
