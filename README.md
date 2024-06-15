@@ -81,21 +81,27 @@ I am a passionate software engineering student currently in my final year. I'm e
     <td>
       <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Left/vue.svg" alt="Vue.js"></a>
       <br>
-      <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Left/bootstrap.svg" alt="Bootstrap"></a>
+      <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Left/react.svg" alt="React"></a>
       <br>
-      <a href="https://pages.github.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Left/githubPages.svg" alt="GitHub Pages"></a>
+      <a href="https://www.baeldung.com/spring-boot-internationalization"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Left/springBoot.svg" alt="Spring Boot"></a>
+      <br>
+      <a href="https://jquery.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Left/jquery.svg" alt="Jquery"></a>
     </td>
     <td>
-      <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Middle/react.svg" alt="React"></a>
+      <a href="https://vitejs.dev/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Middle/vite.svg" alt="Vite"></a>
       <br>
-      <a href="https://v2.chakra-ui.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Middle/chakraUi.svg" alt="Chakra UI"></a>
+      <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Middle/bootstrap.svg" alt="Bootstrap"></a>
+      <br>
+      <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Middle/express.svg" alt="Express.js"></a>
       <br>
       <a href="https://wordpress.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Middle/wordpress.svg" alt="WordPress"></a>
     </td>
     <td>
-      <a href="https://nodejs.org/en"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Right/nodeJs.svg" alt="Node Js"></a>
+      <a href="https://www.npmjs.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Right/npm.svg" alt="NPM"></a>
       <br>
-      <a href="https://www.baeldung.com/spring-boot-internationalization"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Right/springBoot.svg" alt="Spring Boot">
+      <a href="https://v2.chakra-ui.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Right/chakraUi.svg" alt="Chakra UI">
+      <br>
+      <a href="https://nodejs.org/en"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Right/nodeJs.svg" alt="nodeJs"></a>
       <br>
       <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Right/figma.svg" alt="Figma"></a>
     </td>
