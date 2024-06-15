@@ -136,14 +136,25 @@ I am a passionate software engineering student currently in my final year. I'm e
 <h2 align = "center">☁️ Cloud and Databases</h2>
 
 <div align = "center">
-
-  [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FFCA28)](https://aws.amazon.com/)
-  [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=150458)](https://firebase.google.com/)
-  [![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
-  [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
-  [![MongoDB](https://img.shields.io/badge/-MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-  [![MySQL](https://img.shields.io/badge/-MySQL-4479B0?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
+<table>
+  <tr>
+    <td>
+      <a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/CloudAndDatabases/Left/firebase.svg" alt="Firebase"></a>
+      <br>
+      <a href="https://pages.github.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/CloudAndDatabases/Left/githubPages.svg" alt="Github Pages"></a>
+    </td>
+    <td>
+      <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/CloudAndDatabases/Middle/mongoDb.svg" alt="MongoDB"></a>
+      <br>
+      <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/CloudAndDatabases/Middle/aws.svg" alt="AWS"></a>
+    </td>
+    <td>
+      <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/CloudAndDatabases/Right/mySql.svg" alt="MySQL"></a>
+      <br>
+      <a href="https://www.w3schools.com/sql/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/CloudAndDatabases/Right/sql.svg" alt="SQL">
+    </td>
+  </tr>
+</table>
 </div>
 
 <h2 align = "center">💻 Tools and Platforms</h2>
