@@ -53,8 +53,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> How do programming shepherds count their flock?</p>
-            <p class="answer"><b>A.</b> With lambda functions </p>
+            <p class="question"><b>Q.</b> What is React's favorite movie genre?</p>
+            <p class="answer"><b>A.</b> Suspense </p>
           </div>
         </div>
       </div>
