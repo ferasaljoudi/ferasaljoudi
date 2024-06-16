@@ -166,25 +166,28 @@ I am a passionate software engineering student currently in my final year. I'm e
       <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Left/vsCode.svg" alt="VS CODE"></a>
       <br>
       <a href="https://www.keil.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Left/keil.svg" alt="Keil uVision"></a>
+      <br>
+      <a href="https://www.codeblocks.org/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Left/codeBlocks.svg" alt="Code::Blocks"></a>
     </td>
     <td>
       <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Middle/docker.svg" alt="Docker"></a>
       <br>
       <a href="https://www.xilinx.com/products/design-tools/vivado.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Middle/vivado.svg" alt="Vivado"></a>
+      <br>
+      <a href="https://pages.cs.wisc.edu/~larus/spim.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Middle/qtSpim.svg" alt="QtSpim"></a>
     </td>
     <td>
       <a href="https://casaos.io/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Right/casaOs.svg" alt="Casa Os"></a>
       <br>
       <a href="https://www.anaconda.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Right/anaconda.svg" alt="Anaconda"></a>
+      <br>
+      <a href="https://www.plm.automation.siemens.com/trial/en-us/solid-edge.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Right/solidEdge.svg" alt="Solid Edge"></a>
     </td>
   </tr>
 </table>
 
   [![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D50?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://apps.microsoft.com/detail/9n0dx20hk701?launch=true&mode=full&hl=en-us&gl=ca&ocid=bingwebsearch)
-  [![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-44A833?style=for-the-badge&logo=codeblocks&logoColor=white)](https://www.codeblocks.org/)
-  <a href="https://pages.cs.wisc.edu/~larus/spim.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/qtSpim.svg" alt="QtSpim"></a>
   [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-  <a href="https://www.plm.automation.siemens.com/trial/en-us/solid-edge.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/solidEdge.svg" alt="Solid Edge"></a>
   [![Eclipse IDE](https://img.shields.io/badge/-Eclipse_IDE-4F4F4F?style=for-the-badge&logo=eclipse&logoColor=B57EDC)](https://www.eclipse.org/)
   [![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
   [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
