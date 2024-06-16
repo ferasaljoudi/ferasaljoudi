@@ -164,20 +164,23 @@ I am a passionate software engineering student currently in my final year. I'm e
   <tr>
     <td>
       <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Left/vsCode.svg" alt="VS CODE"></a>
+      <br>
+      <a href="https://www.keil.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Left/keil.svg" alt="Keil uVision"></a>
     </td>
     <td>
       <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Middle/docker.svg" alt="Docker"></a>
+      <br>
+      <a href="https://www.xilinx.com/products/design-tools/vivado.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Middle/vivado.svg" alt="Vivado"></a>
     </td>
     <td>
       <a href="https://casaos.io/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Right/casaOs.svg" alt="Casa Os"></a>
+      <br>
+      <a href="https://www.anaconda.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Right/anaconda.svg" alt="Anaconda"></a>
     </td>
   </tr>
 </table>
 
-  [![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
   [![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D50?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://apps.microsoft.com/detail/9n0dx20hk701?launch=true&mode=full&hl=en-us&gl=ca&ocid=bingwebsearch)
-  [![Keil uVision](https://img.shields.io/badge/-Keil_uVision-0090D0?style=for-the-badge&logoColor=white)](https://www.keil.com/)
-  <a href="https://www.xilinx.com/products/design-tools/vivado.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/vivado.svg" alt="Vivado"></a>
   [![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-44A833?style=for-the-badge&logo=codeblocks&logoColor=white)](https://www.codeblocks.org/)
   <a href="https://pages.cs.wisc.edu/~larus/spim.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/qtSpim.svg" alt="QtSpim"></a>
   [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
