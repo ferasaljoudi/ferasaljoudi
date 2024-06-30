@@ -35,7 +35,6 @@ I am a passionate software engineering student currently in my final year. I'm e
 <div style="width: 100%;">
     <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BlueSVGs/skillset.svg" alt="Skillset" style="width: 100%"></a>
 </div>
-
 <h2 align = "center">👨‍💻 Languages</h2>
 
 <div align="center">
