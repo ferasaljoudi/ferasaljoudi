@@ -240,8 +240,8 @@ I am a passionate software engineering student currently in my final year. I'm e
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ferasaljoudi&hide_border=true&background=0d1117&currStreakLabel=1E90F0&fire=EFE372&ring=EFE372&stroke=white&dates=white&currStreakNum=1E90F0&sideNums=1E90F0&sideLabels=1E90F0&text_color=ffffff" alt="ferasaljoudi-Streak">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferasaljoudi&show_icons=true&icon_color=1E90F0&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=1E90F0" alt="Feras Aljoudi's GitHub Stats" width="59%">
-  <img src="https://aljoudi-service.csproject.org/api/top-langs/image?username=ferasaljoudi&format=list&titleColor=1E90F0" alt="Feras Aljoudi-Most Languages Used" width="40%">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ferasaljoudi&show_icons=true&icon_color=1E90F0&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=1E90F0" alt="Feras Aljoudi's GitHub Stats" width="59%"> -->
+  <img src="https://aljoudi-service.csproject.org/api/top-langs/image?username=ferasaljoudi&format=list&titleColor=1E90F1" alt="Feras Aljoudi-Most Languages Used" width="40%">
 </div>
 <br>
 
