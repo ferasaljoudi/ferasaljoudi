@@ -53,8 +53,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why do programmers prefer dark mode?</p>
-            <p class="answer"><b>A.</b> Because light attracts bugs. </p>
+            <p class="question"><b>Q.</b> Why couldn’t the user update a file on a shared server?</p>
+            <p class="answer"><b>A.</b> They didn’t have the write permissions </p>
           </div>
         </div>
       </div>
