@@ -53,8 +53,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why do programmers always mix up Halloween and Christmas?</p>
-            <p class="answer"><b>A.</b> Because 31 OCT == 25 DEC </p>
+            <p class="question"><b>Q.</b> Why does the Docker container fail?</p>
+            <p class="answer"><b>A.</b> So that, Kubernetes can start it again </p>
           </div>
         </div>
       </div>
