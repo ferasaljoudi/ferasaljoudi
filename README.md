@@ -15,6 +15,12 @@ I am a passionate software engineering student currently in my final year. I'm e
 
 - 📫 Reach me through: _<a href="mailto:feras.aljoudi@gmail.com">Email</a>_
 
+- ✨ Visit my Portfolio
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://aljoudi.ca"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Resumes/portfolio.svg" alt="React Resume"></a>
+
+  
+
 - ✨ Check out my Resumes
 
   - Initial Version
