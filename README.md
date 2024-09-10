@@ -53,7 +53,7 @@ I am a passionate software engineering student currently in my final year. I'm e
       <br>
       <a href="https://www.w3schools.com/js/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Left/javaScript.svg" alt="JavaScript"></a>
       <br>
-      <a href="https://html.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Left/html.svg" alt="HTML"></a>
+      <a href="https://dart.dev/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Left/dart.svg" alt="Dart"></a>
       <br>
       <a href="https://developer.arm.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Left/arm.svg" alt="ARM"></a>
     </td>
