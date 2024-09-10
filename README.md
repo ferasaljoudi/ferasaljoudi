@@ -95,7 +95,8 @@ I am a passionate software engineering student currently in my final year. I'm e
       <br>
       <a href="https://www.baeldung.com/spring-boot-internationalization"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Left/springBoot.svg" alt="Spring Boot"></a>
       <br>
-      <a href="https://jquery.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Left/jquery.svg" alt="Jquery"></a>
+      <!-- <a href="https://jquery.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Left/jquery.svg" alt="Jquery"></a> -->
+      <a href="https://docs.flutter.dev/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Left/flutter.svg" alt="Flutter"></a>
     </td>
     <td>
       <a href="https://vitejs.dev/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Middle/vite.svg" alt="Vite"></a>
@@ -111,7 +112,9 @@ I am a passionate software engineering student currently in my final year. I'm e
       <br>
       <a href="https://v2.chakra-ui.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Right/chakraUi.svg" alt="Chakra UI">
       <br>
-      <a href="https://nodejs.org/en"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Right/nodeJs.svg" alt="nodeJs"></a>
+      <!-- <a href="https://nodejs.org/en"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Right/nodeJs.svg" alt="nodeJs"></a>
+      <br> -->
+      <a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Right/openCV.svg" alt="OpenCV"></a>
       <br>
       <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Right/figma.svg" alt="Figma"></a>
     </td>
