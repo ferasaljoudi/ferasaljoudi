@@ -53,8 +53,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why was the function sad after a successful first call?</p>
-            <p class="answer"><b>A.</b> It didn’t get a callback. </p>
+            <p class="question"><b>Q.</b> Why did the functions stop calling each other?</p>
+            <p class="answer"><b>A.</b> Because they had constant arguments. </p>
           </div>
         </div>
       </div>
