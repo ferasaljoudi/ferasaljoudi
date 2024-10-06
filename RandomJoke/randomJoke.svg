@@ -53,8 +53,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why do kayakers make bad programmers?</p>
-            <p class="answer"><b>A.</b> Because they're afraid of waterfall. </p>
+            <p class="question"><b>Q.</b> What is React's favorite movie genre?</p>
+            <p class="answer"><b>A.</b> Suspense </p>
           </div>
         </div>
       </div>
