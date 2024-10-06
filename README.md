@@ -200,7 +200,8 @@ I am a passionate software engineering student currently in my final year. I'm e
       <br>
       <a href="https://www.plm.automation.siemens.com/trial/en-us/solid-edge.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Right/solidEdge.svg" alt="Solid Edge"></a>
       <br>
-      <a href="https://www.notion.so/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Right/notion.svg" alt="Notion"></a>
+      <!-- <a href="https://www.notion.so/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Right/notion.svg" alt="Notion"></a> -->
+      <a href="https://www.st.com/en/development-tools/stm32cubeide.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Right/stm32Cube.svg" alt="STM32Cube"></a>
     </td>
   </tr>
 </table>
