@@ -53,8 +53,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why couldn't the developer pull the weeds from the garden?</p>
-            <p class="answer"><b>A.</b> They didn't have root access. </p>
+            <p class="question"><b>Q.</b> How do you help JS errors?</p>
+            <p class="answer"><b>A.</b> You <code>console</code> them! </p>
           </div>
         </div>
       </div>
