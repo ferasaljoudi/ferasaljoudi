@@ -191,6 +191,8 @@ I am a passionate software engineering student currently in my final year. I'm e
       <br>
       <a href="https://pages.cs.wisc.edu/~larus/spim.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Middle/qtSpim.svg" alt="QtSpim"></a>
       <br>
+      <a href="https://www.overleaf.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Middle/overleaf.svg" alt="Overleaf"></a>
+      <br>
       <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Middle/ubuntu.svg" alt="Ubuntu"></a>
     </td>
     <td>
@@ -200,8 +202,9 @@ I am a passionate software engineering student currently in my final year. I'm e
       <br>
       <a href="https://www.plm.automation.siemens.com/trial/en-us/solid-edge.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Right/solidEdge.svg" alt="Solid Edge"></a>
       <br>
-      <!-- <a href="https://www.notion.so/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Right/notion.svg" alt="Notion"></a> -->
       <a href="https://www.st.com/en/development-tools/stm32cubeide.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Right/stm32Cube.svg" alt="STM32Cube"></a>
+      <br>
+      <a href="https://www.notion.so/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Right/notion.svg" alt="Notion"></a>
     </td>
   </tr>
 </table>
