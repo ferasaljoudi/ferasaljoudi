@@ -182,6 +182,8 @@ I am a passionate software engineering student currently in my final year. I'm e
       <br>
       <a href="https://www.codeblocks.org/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Left/codeBlocks.svg" alt="Code::Blocks"></a>
       <br>
+      <a href="https://godbolt.org/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Left/compiler.svg" alt="Compiler Explorer"></a>
+      <br>
       <a href="https://www.eclipse.org/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Left/eclipseIde.svg" alt="Eclipse IDE"></a>
     </td>
     <td>
