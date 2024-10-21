@@ -55,6 +55,8 @@ I am a passionate software engineering student currently in my final year. I'm e
       <br>
       <a href="https://dart.dev/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Left/dart.svg" alt="Dart"></a>
       <br>
+      <a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Left/html.svg" alt="HTML"></a>
+      <br>
       <a href="https://developer.arm.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Left/arm.svg" alt="ARM"></a>
     </td>
     <td>
@@ -63,6 +65,8 @@ I am a passionate software engineering student currently in my final year. I'm e
       <a href="https://www.w3schools.com/python/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Middle/python.svg" alt="Python"></a>
       <br>
       <a href="https://www.shellscript.sh/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Middle/shellScript.svg" alt="ShellScript"></a>
+      <br>
+      <a href="https://makefiletutorial.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Middle/makefile.svg" alt="Makefile"></a>
       <br>
       <a href="https://html.com/html5/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Middle/html5.svg" alt="HTML5"></a>
       <br>
@@ -74,6 +78,8 @@ I am a passionate software engineering student currently in my final year. I'm e
       <a href="https://www.w3schools.com/php/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Right/php.svg" alt="PHP">
       <br>
       <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Right/typeScript.svg" alt="TypeScript"></a>
+      <br>
+      <a href="https://www.latex-project.org/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Right/latex.svg" alt="LATEX"></a>
       <br>
       <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Right/css.svg" alt="CSS"></a>
       <br>
