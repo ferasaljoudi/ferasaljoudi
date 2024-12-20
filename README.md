@@ -21,13 +21,7 @@ I am a passionate software engineering student currently in my final year. I'm e
 
   
 
-- ✨ Check out my Resumes
-
-  - Initial Version
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ferasaljoudi.github.io/FerasResume/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Resumes/react.svg" alt="React Resume"></a>
-
-  - Updated Version
+- ✨ Check out my Resume
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://resume.aljoudi.ca/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Resumes/vue.svg" alt="Vue Resume"></a>
 
