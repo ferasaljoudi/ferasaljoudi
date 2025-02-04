@@ -19,8 +19,6 @@ I am a passionate software engineering student currently in my final year. I'm e
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://aljoudi.ca"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Resumes/portfolio.svg" alt="React Resume"></a>
 
-  
-
 - ✨ Check out my Resume
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://resume.aljoudi.ca/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Resumes/vue.svg" alt="Vue Resume"></a>
@@ -256,7 +254,6 @@ I am a passionate software engineering student currently in my final year. I'm e
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ferasaljoudi&show_icons=true&icon_color=1E90F0&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=1E90F0" alt="Feras Aljoudi's GitHub Stats" width="58%">
-  <img src="https://top-languages.aljoudi.ca/api/top-langs/image?username=ferasaljoudi&format=list&titleColor=1E90F0" alt="Most Languages Used" width="41%">
 </div>
 <br>
 
