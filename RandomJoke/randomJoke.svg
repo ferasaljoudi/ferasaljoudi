@@ -51,7 +51,7 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="quote">Dev 1 -  We have a problem. Dev 2 -  Let’s use RegEx! Dev 1 -  Now we have two problems</p>
+            <p class="quote">Lisp programmers don't make prank calls. They make <code>FUNCALL</code>s</p>
           </div>
         </div>
       </div>
