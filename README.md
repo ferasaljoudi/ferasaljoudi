@@ -9,7 +9,7 @@
 </div>
 <br>
 
-I am a passionate software engineering student currently in my final year. I'm eagerly counting down to my expected graduation in April 2025. My journey in software engineering has been filled with learning, growth, and a deepening love for coding and problem-solving. On this GitHub profile, you'll find projects that showcase my skills and reflect my commitment to quality and innovation in software development.</h2>
+I am a passionate software engineering student currently in my final month. I'm eagerly counting down to my expected graduation at the end of April 2025. My journey in software engineering has been filled with learning, growth, and a deepening love for coding and problem-solving. On this GitHub profile, you'll find projects that showcase my skills and reflect my commitment to quality and innovation in software development.</h2>
 
 <h3>
 
@@ -23,7 +23,7 @@ I am a passionate software engineering student currently in my final year. I'm e
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://resume.aljoudi.ca/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Resumes/vue.svg" alt="Vue Resume"></a>
 
-- 🔭 I’m currently working on advanced software engineering projects and enhancing my technical skills as I am completing my final year of a software engineering degree.
+- 🔭 I’m currently working on advanced software engineering projects and enhancing my technical skills.
 
 - ⚡ Fun fact: I am avid photographer, capturing moments with as much skill and attention to detail as I code.
 
