@@ -53,8 +53,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why did the computer squeak?</p>
-            <p class="answer"><b>A.</b> Because someone stepped on its mouse! </p>
+            <p class="question"><b>Q.</b> How do you help JS errors?</p>
+            <p class="answer"><b>A.</b> You <code>console</code> them! </p>
           </div>
         </div>
       </div>
