@@ -53,8 +53,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> You know what the best thing about booleans is?</p>
-            <p class="answer"><b>A.</b> Even if you are wrong, you are only off by a bit. </p>
+            <p class="question"><b>Q.</b> Why can't you use 'Soup' as your password?</p>
+            <p class="answer"><b>A.</b> Because it isn't <code>stroganoff</code> </p>
           </div>
         </div>
       </div>
