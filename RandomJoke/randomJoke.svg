@@ -53,8 +53,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Which programming language is the shortest?</p>
-            <p class="answer"><b>A.</b> HTML. Because it doesn't have a neck between its <code>head</code> and <code>body</code>. </p>
+            <p class="question"><b>Q.</b> What is React's favorite movie genre?</p>
+            <p class="answer"><b>A.</b> Suspense </p>
           </div>
         </div>
       </div>
