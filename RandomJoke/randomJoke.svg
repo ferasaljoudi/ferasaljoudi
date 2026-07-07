@@ -53,8 +53,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> How do you get the code for the bank vault?</p>
-            <p class="answer"><b>A.</b> You checkout their branch. </p>
+            <p class="question"><b>Q.</b> Why doesn't Chuck Norris need garbage collection.</p>
+            <p class="answer"><b>A.</b> Because he doesn’t call <code>.Dispose()</code>, he calls <code>.DropKick()</code>. </p>
           </div>
         </div>
       </div>
