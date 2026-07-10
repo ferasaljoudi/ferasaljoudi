@@ -53,8 +53,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> How does a developer make a cheer?</p>
-            <p class="answer"><b>A.</b> ["hip","hip"] // (hip hip array!) </p>
+            <p class="question"><b>Q.</b> Why didn't the <code>div</code> get invited to the dinner party?</p>
+            <p class="answer"><b>A.</b> Because it had no <code>class</code>! </p>
           </div>
         </div>
       </div>
