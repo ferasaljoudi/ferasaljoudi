@@ -53,8 +53,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> You know what the best thing about booleans is?</p>
-            <p class="answer"><b>A.</b> Even if you are wrong, you are only off by a bit. </p>
+            <p class="question"><b>Q.</b> An Agent died unexpectedly. How was the crime solved?</p>
+            <p class="answer"><b>A.</b> By looking at the Stack Trace. </p>
           </div>
         </div>
       </div>
