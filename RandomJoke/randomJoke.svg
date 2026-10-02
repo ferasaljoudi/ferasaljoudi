@@ -53,8 +53,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> What airline do developers prefer when they're in a rush?</p>
-            <p class="answer"><b>A.</b> Delta. </p>
+            <p class="question"><b>Q.</b> Why couldn’t the user update a file on a shared server?</p>
+            <p class="answer"><b>A.</b> They didn’t have the write permissions </p>
           </div>
         </div>
       </div>
